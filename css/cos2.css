@@ -1,0 +1,92 @@
+#logo{
+	margin-top:15px;
+	margin-bottom:15px;
+}
+
+ul {
+ list-style-type:none;
+  padding:1px;
+
+  font-size:16px;
+ 
+  margin-left: 25%;
+  margin-right:25%;
+
+  line-height:40px;
+  text-align:center;
+ 
+ 
+ 
+}
+ li {
+	margin-bottom:2px;
+	 border-radius: 15px;
+float:left;
+
+  background-color:LightBlue;
+  width:120px;
+}
+ul a {
+  font-family: Arial;
+  
+  color:#000;
+  text-decoration:none;
+ 
+}
+ul > li > a:hover {
+  color:#09C;
+}
+
+ul > li:hover {
+  background-color:#EEE;
+}
+img:hover.pic
+{
+	
+	-o-transition: all 0.6s;
+	-moz-transition:all 0.6s;
+	-webkit-transition:all 0.6s;
+	-moz-transform:scale(1.1);
+	-o-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	
+}
+.card{
+	display:flex;
+	justify-content: space-evenly;
+	padding: 5px;
+  
+}
+.box
+{
+	
+height: 300px;
+  width: 250px;
+  border-radius: 3px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  margin: 5px;
+  
+ text-align: center;
+  
+  font-size: 10px;
+  overflow: hidden;
+}
+.gora{
+
+height: 220px;
+  width: 100%;
+  line-height: 70px;
+ 
+  
+  background: White;
+}
+
+.pic
+{    
+margin-top:10px;
+
+}
+#picg
+{
+	margin-bottom:2px;
+}
